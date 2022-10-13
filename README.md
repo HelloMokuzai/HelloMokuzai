@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @HelloMokuzai (MKZI⚡️)
+- 👀 I’m a pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
+- 💌 HelloMokuzai@outlook.com
+
+<!---
+HelloMokuzai/HelloMokuzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
