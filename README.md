@@ -9,8 +9,8 @@
 |__/     |__/|__/  \__/|________/|______/
 ```
 
-- Hi, I’m MKZI⚡️ (@HelloMokuzai)
-- I’m a pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
+- MKZI⚡️ (@HelloMokuzai)
+- Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
 - 💌 HelloMokuzai@outlook.com
 - ☕ HelloMokuzai<span>@</span>coinos.io
 
