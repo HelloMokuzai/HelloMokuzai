@@ -12,7 +12,6 @@
 - MKZI⚡️ (@HelloMokuzai)
 - Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
 - 💌 HelloMokuzai@outlook.com
-- ☕ HelloMokuzai<span>@</span>coinos.io
 
 <!---
 HelloMokuzai/HelloMokuzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
