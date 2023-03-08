@@ -11,7 +11,7 @@
 
 - MKZI⚡️ (@HelloMokuzai)
 - Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
-- Lead founder of the Astral Credits (XAC) Cryptocurrency project - https://astralcredits.xyz/
+- Lead - Astral Credits (XAC) Cryptocurrency project - https://astralcredits.xyz/
 - 💌 HelloMokuzai@outlook.com
 
 <!---
