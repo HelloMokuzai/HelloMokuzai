@@ -9,8 +9,8 @@
 |__/     |__/|__/  \__/|________/|______/
 ```
 
-- MKZI⚡️ (@HelloMokuzai)
-- Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.
+- **MKZI⚡️ (@HelloMokuzai)**
+- *Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.*
 - Architect & Lead Dev for the Astral Credits (XAC) Cryptocurrency project - https://astralcredits.xyz/
 - 💌 HelloMokuzai@outlook.com
 
