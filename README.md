@@ -12,7 +12,7 @@
 - **MKZI⚡️ (@HelloMokuzai)**
 - *Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.*
 - Architect & Lead Dev for the Astral Credits (XAC) Cryptocurrency project - https://astralcredits.xyz/
-- 💌 HelloMokuzai@outlook.com
+- 💌 AstralCredits@protonmail.com
 
 <!---
 HelloMokuzai/HelloMokuzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
