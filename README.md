@@ -11,7 +11,9 @@
 
 - **MKZI⚡️ (@HelloMokuzai)**
 - *Pseudonymous digital creator & privacy advocate interested in modern technologies that spur creativity and innovation.*
-- Architect & Lead Dev for the Astral Credits (XAC) Cryptocurrency project - https://astralcredits.xyz/
+ 
+- Architect of [Astral Credits (XAC)](https://astralcredits.xyz/) - an experiment in Token distribution on the Songbird Cryptocurrency Network.
+- Maintainer of [Banano HUB](https://hub.banano.network/) - an information & link repository for monkeys using the Bnaano Cryptocurrency Network.
 - 💌 hellomokuzai@outlook.com
 
 <!---
