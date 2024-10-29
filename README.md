@@ -20,4 +20,5 @@ Current projects:
 I also run a Bitcoin Lightning Node! ⚡️ - [Open a channel](https://github.com/HelloMokuzai/LightningNode)
 
 ☕ `mkzi@zeuspay.com`
+
 💌 `hellomokuzai@outlook.com`
