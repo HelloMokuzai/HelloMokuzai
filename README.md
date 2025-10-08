@@ -8,7 +8,6 @@
 | ₿₿ \/  | ₿₿| ₿₿ \  ₿₿ /₿₿₿₿₿₿₿₿ /₿₿₿₿₿₿
 |__/     |__/|__/  \__/|________/|______/
 
-
 ██████████ Z E R 0 // T R U S T ██████████
 ```
 [<img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" height="32"/>](https://github.com/HelloMokuzai/LightningNode)
