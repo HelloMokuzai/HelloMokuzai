@@ -27,5 +27,5 @@
 `Cryptocurrency` `Flare Network` `Songbird Network` `ERC20` `Community`
 
 **Mr.Tipbot** - https://www.astralcredits.xyz/tipbot<Br>
-*A free to use, dedicated Flare & Songbird Network Discord tipping service that allows the tipping of FLR, SGB and other supported ERC20 tokens on the Flare & Songbird networks.*<Br>
-`Cryptocurrency` `Flare-Network` `Songbird Network` `Tipping` `Discord Bot` `Community`
+*A free to use, dedicated Flare & Songbird Network Discord on-chain tipping service that allows the tipping of FLR, SGB and other supported ERC20 tokens on the Flare & Songbird networks.*<Br>
+`Cryptocurrency` `Flare Network` `Songbird Network` `Tipping` `Discord Bot` `Community`
