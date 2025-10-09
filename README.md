@@ -35,6 +35,6 @@ A free to use, dedicated Flare & Songbird Network Discord on-chain tipping servi
 <Br>
 
 > [!IMPORTANT]
-> *'Whilst I engage in development across various cryptocurrency networks, it is my opinion that **Bitcoin** is hummanity's greatest opportunity for achieving true financial sovereignty — letting you own and transfer value to anywhere/anyone in the world without relying on a bank, institution or government. It is decentralized, transparent, and  resistant to censorship & inflation and warrants in-depth, dedicated study.'*
+> *'Whilst I engage in development across various cryptocurrency networks, it is my opinion that **Bitcoin** is hummanity's greatest opportunity for achieving true financial sovereignty — letting you own and transfer value to anywhere or anyone in the world without relying on a bank, institution or government. It is decentralized, transparent, and  resistant to censorship & inflation and warrants in-depth, dedicated study.'*
 > 
 > Read **Mastering Bitcoin** free: https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md
