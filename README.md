@@ -10,13 +10,15 @@
 
 ██████████ Z E R 0 // T R U S T ██████████
 ```
-## 🅼🅺🆉🅸⚡ HelloMokuzai
+# 🅼🅺🆉🅸⚡ HelloMokuzai
 *Digital creator / Privacy advocate / Freedom tech enthusiast*
 
 [<img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" height="42"/>](https://github.com/HelloMokuzai/LightningNode)
 
 ☕ `mkzi@zeuspay.com`<Br>
 💌 `hellomokuzai@outlook.com`
+
+## Currently working on:
 
 **BANANO HUB** - https://hub.banano.network/<Br>
 *An information & link repository for monkeys using the Banano Network.*<Br>
