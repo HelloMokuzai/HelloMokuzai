@@ -20,12 +20,12 @@
 
 **BANANO HUB** - https://hub.banano.network/<Br>
 *An information & link repository for monkeys using the Banano Network.*<Br>
-`Cryptocurrency` `Website` `Fun`
+`Cryptocurrency` `Banano Network` `Website` `Fun`
 
 **Astral Credits** - https://astralcredits.xyz/<Br>
 *An experiment in token distribution & community building on the Flare Network.*<Br>
-`Cryptocurrency` `ERC20` `Website` `Community` `Fun`
+`Cryptocurrency` `Flare Network` `Songbird Network` `ERC20` `Website` `Community` `Fun`
 
 **Mr.Tipbot** - https://www.astralcredits.xyz/tipbot<Br>
 *A free to use, dedicated Flare & Songbird Network Discord tipping service that allows the tipping of FLR, SGB and other supported ERC20 tokens on the Flare & Songbird networks.*<Br>
-`Cryptocurrency` `ERC20` `Tipping` `Discord-Bot` `Community`
+`Cryptocurrency` `Flare-Network` `Songbird Network` `Tipping` `Discord Bot` `Community`
