@@ -20,7 +20,7 @@
 
 ## Currently working on:
 
-**BANANO HUB** - https://hub.banano.network/<Br>
+**Banano Hub** - https://hub.banano.network/<Br>
 An information & link repository for monkeys using the Banano Network.<Br>
 `Cryptocurrency` `Banano Network` `Meme-Coin` `Website` `Fun`
 
