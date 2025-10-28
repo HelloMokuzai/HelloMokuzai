@@ -24,7 +24,7 @@
 An information & link repository for monkeys using the Banano Network.<Br>
 `Cryptocurrency` `Banano Network` `Meme-Coin` `Website` `Fun`
 
-**Astral Credits** - https://astralcredits.xyz/<Br>
+**Astral Credits** - https://astralcredits.xyz/ 🚀󠄧󠅖󠅔󠄠󠄣󠅔󠄣󠅓󠄣󠄠󠄤󠅒󠅑󠅓󠅓󠄧󠄣󠄠󠅖󠅑󠅓󠅔󠄢󠄢󠅑󠅕󠄧󠅔󠄧󠅖󠄩󠄡󠄢󠅑󠄣󠄣󠄡󠅕󠄡󠄠󠅔󠄤󠄩󠄧󠄦󠅑󠄣󠄨󠄧󠄥󠄡󠄢󠄥󠄠󠅔󠅒󠅓󠅔󠄩󠅔󠄤󠄩󠅓󠄨<Br>
 An experiment in zero-cost token distribution & community building on the Flare Network.<Br>
 `Cryptocurrency` `Flare Network` `Songbird Network` `Faucet` `ERC20` `Community`
 
