@@ -32,6 +32,10 @@ An experiment in zero-cost token distribution & community building on the Flare 
 A free to use, dedicated Flare & Songbird Network Discord on-chain tipping service that allows the tipping of FLR, SGB and other supported ERC20 tokens on the Flare & Songbird networks.<Br>
 `Cryptocurrency` `Flare Network` `Songbird Network` `Tipping` `Discord Bot` `Community`
 
+**The Astral Plane** - https://www.astralcredits.xyz/bridge<Br>
+A secure, one-way, burn-to-mint bridge service enabling users to send XAC tokens securely cross-chain, from the SONGBIRD Canary Network to the FLARE Network (Mainnet).<Br>
+`Cryptocurrency` `Flare Network` `Songbird Network` `Bridge` `Community`
+
 <Br>
 
 > [!IMPORTANT]
