@@ -20,19 +20,19 @@
 
 ## Currently working on:
 
-**Banano Hub** - https://hub.banano.network/<Br>
+**Banano Hub** - [hub.banano.network](https://hub.banano.network/)<Br>
 An information & link repository for monkeys using the Banano Network.<Br>
 `Cryptocurrency` `Banano Network` `Meme-Coin` `Website` `Fun`
 
-**Astral Credits** - https://astralcredits.xyz/ 🚀󠄧󠅖󠅔󠄠󠄣󠅔󠄣󠅓󠄣󠄠󠄤󠅒󠅑󠅓󠅓󠄧󠄣󠄠󠅖󠅑󠅓󠅔󠄢󠄢󠅑󠅕󠄧󠅔󠄧󠅖󠄩󠄡󠄢󠅑󠄣󠄣󠄡󠅕󠄡󠄠󠅔󠄤󠄩󠄧󠄦󠅑󠄣󠄨󠄧󠄥󠄡󠄢󠄥󠄠󠅔󠅒󠅓󠅔󠄩󠅔󠄤󠄩󠅓󠄨<Br>
+**Astral Credits** - [astralcredits.xyz](https://astralcredits.xyz/) 🚀󠄧󠅖󠅔󠄠󠄣󠅔󠄣󠅓󠄣󠄠󠄤󠅒󠅑󠅓󠅓󠄧󠄣󠄠󠅖󠅑󠅓󠅔󠄢󠄢󠅑󠅕󠄧󠅔󠄧󠅖󠄩󠄡󠄢󠅑󠄣󠄣󠄡󠅕󠄡󠄠󠅔󠄤󠄩󠄧󠄦󠅑󠄣󠄨󠄧󠄥󠄡󠄢󠄥󠄠󠅔󠅒󠅓󠅔󠄩󠅔󠄤󠄩󠅓󠄨<Br>
 An experiment in zero-cost token distribution & community building on the Flare Network.<Br>
 `Cryptocurrency` `Flare Network` `Songbird Network` `Faucet` `ERC20` `Community`
 
-**Mr.Tipbot** - https://www.astralcredits.xyz/tipbot<Br>
+**Mr.Tipbot** - [astralcredits.xyz/tipbot](https://www.astralcredits.xyz/tipbot)<Br>
 A free to use, dedicated Flare & Songbird Network Discord on-chain tipping service that allows the tipping of FLR, SGB and other supported ERC20 tokens on the Flare & Songbird networks.<Br>
 `Cryptocurrency` `Flare Network` `Songbird Network` `Tipping` `Discord Bot` `Community`
 
-**The Astral Plane** - https://www.astralcredits.xyz/bridge<Br>
+**The Astral Plane** - [astralcredits.xyz/bridge](https://www.astralcredits.xyz/bridge)<Br>
 A secure, one-way, burn-to-mint bridge service enabling users to send XAC tokens securely cross-chain, from the SONGBIRD Canary Network to the FLARE Network (Mainnet).<Br>
 `Cryptocurrency` `Flare Network` `Songbird Network` `Bridge` `Community`
 
