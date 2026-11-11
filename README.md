@@ -15,7 +15,7 @@
 
 [<img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" height="42"/>](https://github.com/HelloMokuzai/LightningNode)
 
-## Building for fun!
+## Building for fun:
 
 **Banano Hub** - [hub.banano.network](https://hub.banano.network/)<Br>
 An information & link repository for monkeys using the Banano Network.<Br>
